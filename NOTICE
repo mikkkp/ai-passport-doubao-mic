@@ -1,0 +1,22 @@
+AI Passport Doubao Voice Microphone
+===================================
+
+This project is a derivative work. It builds on:
+
+1. FoloToy AI Passport
+   https://github.com/FoloToy/ai-passport
+   Copyright (c) 2026 FoloToy
+   License: MIT (see LICENSE)
+
+2. Passport Mic
+   https://github.com/MatchlessHeroHx/ai-passport-mic
+   License: MIT
+   Baseline commit: 143a22a
+
+Modifications in this repository are limited to the macOS companion
+(`companion/`) and documentation; the firmware, BSP and protocol are
+unchanged from the two projects above. See
+docs/differences-vs-upstream.md for the full change list.
+
+Both upstream licenses are MIT, whose terms require retaining the original
+copyright notice; that notice is kept in LICENSE.
