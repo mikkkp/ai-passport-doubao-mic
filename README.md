@@ -1,4 +1,4 @@
-<p align="right"><a href="README.zh_CN.md">简体中文</a> · <strong>English</strong></p>
+<p align="right"><a href="README.zh_CN.md">Chinese</a> · <strong>English</strong></p>
 
 # AI Passport — Doubao Voice Microphone
 
@@ -7,7 +7,7 @@ Turn the [FoloToy AI Passport](https://github.com/FoloToy/ai-passport) wearable 
 
 This is a derivative of [Passport Mic](https://github.com/MatchlessHeroHx/ai-passport-mic) (MIT).
 Upstream targets Chatterfly dictation with a right-Control hotkey; this version targets the
-**Doubao input method (豆包输入法) with a right-Option hotkey**, and drops the separate helper
+**Doubao input method with a right-Option hotkey**, and drops the separate helper
 binary for key injection. See [differences from upstream](docs/differences-vs-upstream.md).
 
 ## How it works

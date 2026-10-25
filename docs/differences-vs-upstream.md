@@ -1,11 +1,11 @@
-<p align="right"><a href="differences-vs-upstream.zh_CN.md">简体中文</a> · <strong>English</strong></p>
+<p align="right"><a href="differences-vs-upstream.zh_CN.md">Chinese</a> · <strong>English</strong></p>
 
 # Differences from upstream Passport Mic
 
 - Upstream: [MatchlessHeroHx/ai-passport-mic](https://github.com/MatchlessHeroHx/ai-passport-mic) (MIT)
 - Baseline commit: `143a22a chore: publish only what Passport Mic needs`
 - Goal: turn the "Chatterfly dictation remote" into a general voice-input microphone that targets
-  the **Doubao input method (豆包输入法)** by default.
+  the **Doubao input method** by default.
 
 ## Summary
 
